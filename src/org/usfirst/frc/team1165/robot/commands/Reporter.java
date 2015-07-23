@@ -5,7 +5,7 @@ import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team1165.robot.subsystems.ReportableSubsystem;
 
 /**
- *
+ * A Command that reports information from a ReportableSubsystem.
  */
 public class Reporter extends Command
 {

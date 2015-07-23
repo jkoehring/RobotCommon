@@ -5,7 +5,7 @@ import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc.team1165.util.Resettable;
 
 /**
- *
+ * A Command that instructs a Resettable to reset.
  */
 public class Resetter extends Command
 {

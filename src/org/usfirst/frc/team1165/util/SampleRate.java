@@ -1,8 +1,7 @@
 package org.usfirst.frc.team1165.util;
 
 /**
- * Class for computing sample rates based upon a rolling average.
- *
+ * A class for computing sample rates based upon a rolling average.
  */
 public class SampleRate
 {

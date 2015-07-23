@@ -1,5 +1,8 @@
 package org.usfirst.frc.team1165.util;
 
+/**
+ * A class for computing an average over a rolling window of values.
+ */
 public class Rolling
 {
 	private int size;
