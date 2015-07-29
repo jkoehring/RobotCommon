@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project basedir="." default="CreateJar" name="RobotCommon">
+	<target name="CreateJar" description="Create Jar file">
+		<jar jarfile="RobotCommon.jar" basedir="./bin"/>
+	</target>
+</project>
