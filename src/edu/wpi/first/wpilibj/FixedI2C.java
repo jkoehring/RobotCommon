@@ -23,7 +23,7 @@ import edu.wpi.first.wpilibj.util.BoundaryException;
  * It probably should not be used directly.
  * 
  * This is a fixed version of this class from the WPILib:
- *   - THe transaction method has been fixed to properly report an aborted transaction.
+ *   - The transaction method has been fixed to properly report an aborted transaction.
  *
  */
 public class FixedI2C extends SensorBase {
